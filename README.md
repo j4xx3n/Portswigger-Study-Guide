@@ -1,4 +1,4 @@
 # Portswigger-Study-Guide
 Study Guide for the Burp Suite Certified Practitioner
 
-<img width="450" height="490" alt="certified-secondary-hero" src="https://github.com/user-attachments/assets/6442c3d5-2cd9-4686-81ce-436a434448ce" />
+<img width="1000" height="500" alt="bscp" src="https://github.com/user-attachments/assets/5bc8af3b-2583-46b3-a5f7-e60ac1d18f9c" />
