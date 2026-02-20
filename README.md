@@ -1,4 +1,33 @@
 # Portswigger-Study-Guide
 Study Guide for the Burp Suite Certified Practitioner
 
-<img width="669" height="804" alt="image" src="https://github.com/user-attachments/assets/89fbbbbc-fb56-4613-84c3-731111eadc70" />
+
+
+| Categories                           | Stage 1 | Stage 2 | Stage 3 | Interactive Exploit? |
+| ------------------------------------ | ------- | ------- | ------- | -------------------- |
+| SQL Injection                        | X       | X       |         |                      |
+| Authentication                       | X       | X       |         | X                    |
+| Directory Traversal                  |         |         | X       |                      |
+| Command Injection                    |         |         | X       |                      |
+| Business Logic Vulnerabilities       |         | X       |         |                      |
+| Information Disclosure               |         |         |         |                      |
+| Access Control                       | X       | X       |         |                      |
+| File Upload Vulnerabilities          |         |         | X       | sometimes w/ xss     |
+| Server-Side Request Forgery (SSRF)   |         | X       |         |                      |
+| XXE Injection                        |         |         | X       |                      |
+| Cross-site Scripting (XSS)           | X       | X       |         | X                    |
+| Cross-site Request Forgery (CSRF)    |         | X       |         | X                    |
+| Cross-origin Resource Sharing (CORS) | X       | X       |         | X                    |
+| Clickjacking                         | X       | X       |         | X                    |
+| DOM-based Vulnerabilities            | X       | X       |         | X                    |
+| WebSockets                           | X       | X       |         | X                    |
+| Insecure Deserialization             |         | X       | X       |                      |
+| Server-side Template Injection       |         |         | X       |                      |
+| Web Cache Poisoning                  | X       | X       |         | X                    |
+| HTTP Host Header Attacks             | X       | X       |         | X                    |
+| HTTP Request Smuggling               | X       | X       |         | X                    |
+| OAuth Authentication                 | X       | X       |         | X                    |
+| JWT Attacks                          | X       | X       |         |                      |
+| Prototype Pollution                  | X       | X       | X       | X                    |
+| Essential Skills                     |         |         |         |                      |
+
